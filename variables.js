@@ -12,8 +12,7 @@
 // // console.log(age);
 // console.log(email);
 // console.log(firstName);
-
-
+//test
 let userAge = 20;
 let userName = 'Ivan';
 // let welcomeMessage = `Hi, my name is ${userName}, I am ${userAge}`;
