@@ -248,3 +248,6 @@
 
 
 // console.log(myMap.('key1'));
+
+// const result = calculator.substruct(10, 20);
+// const resultNew = calculator.lastResult;
